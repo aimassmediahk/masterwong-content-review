@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "住宅風水勘察前的準備清單：平面圖、照片與裝修限制",
+      "description": "準備住宅風水勘察，可先整理平面圖、現況照片、裝修階段及不可改動項目。了解如何確認所需資料與服務範圍，並把樓宇安全及工程要求放在首位。",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "沒有平面圖可以先查詢嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以先說明現有資料，再問服務提供者是否需要圖則及可接受甚麼格式；不要自行假定照片足夠。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "售樓書平面圖能當作現場尺寸嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不應直接作此假設。註明圖則來源及版本，尺寸與現況須另行核實。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "相片能代替到場勘察嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不能一概而論。服務模式及限制應直接確認，照片只是輔助資料。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "租客可以按建議改門或拆牆嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不要直接施工。需核對租約、業主同意及適用工程要求，並由合適專業人士評估。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "服務是否包括與裝修公司跟進？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "目前未獲確認。設計溝通、改圖覆核、跟進次數與費用應在預約前逐項問清楚。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "改善風水能解決漏水或健康問題嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不能代替維修或醫療處理。漏水及安全問題交相關專業人士，健康疑慮應向醫護人員求助。"
+          }
+        }
+      ]
+    }
+  ]
+}

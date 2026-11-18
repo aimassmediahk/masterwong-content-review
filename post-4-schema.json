@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "公司命名前先整理甚麼？由品牌方向到名稱查核的實用清單",
+      "description": "公司命名不只挑選好聽字詞。先整理業務定位、讀音、使用場景與候選名稱，再分開確認公司名稱、商標及網域事項，了解傳統命名諮詢的適當角色。",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "命名服務可以保證公司名稱獲批嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不能。公司名稱是否可註冊須按官方程序及適用要求確認，命名意見不是批准。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "公司名稱註冊後就有商標權嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不應作此理解。公司名稱與商標屬不同範疇，需要分開查核相關權利。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "已有候選名稱可以查詢嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以先說明已有候選方向，再問服務是否接受及如何收費；本文不承諾具體評核項目。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "一定要提供所有合夥人的出生資料嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不要自行假定。先確認所需資料與用途，並取得相關人士同意。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "網域有空位就代表名稱安全嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不能。網域可用性不等於公司註冊、商標或其他權利已通過查核。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "名字合適就能保證生意好嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不能。名稱只是品牌與文化選擇的一部分，營運、產品及服務仍是獨立需要處理的工作。"
+          }
+        }
+      ]
+    }
+  ]
+}

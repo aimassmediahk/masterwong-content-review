@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "八字批命預約前要準備甚麼？出生資料與提問清單",
+      "description": "八字批命預約前，如何整理出生日期、時間來源及想討論的問題？本文提供資料核對、私隱及服務範圍確認清單，協助首次查詢人士清楚溝通。",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "首次查詢一定要傳出生證明書嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不要預設需要整份證件。先問清楚所需資料及用途，避免在公開渠道傳送不必要的個人資料。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "只知道農曆生日怎樣辦？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "註明原始日期是農曆，並保留資料來源；轉換或其他處理方式先向服務提供者確認。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "時辰不詳可以直接猜嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議。照實交代已知範圍及來源，讓對方說明限制；本站是否提供校時須另行確認。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "服務一定有書面報告嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "目前不能作此承諾。交付形式、錄音及後續提問安排，應在預約前直接確認。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以代家人查詢嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先徵得本人同意，並確認服務是否接受代詢及需要甚麼資料，不應擅自提交他人的私密資訊。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以用分析代替醫療或投資建議嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不可以。八字屬傳統文化解讀，醫療、法律及財務問題應向相應專業人士尋求意見。"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "已訂酒席才想結婚擇日？日期限制與婚禮流程怎樣協調",
+      "description": "已訂酒席後才考慮結婚擇日，可以先整理哪些限制？由場地合約、註冊安排到家庭期望，了解如何清楚提出查詢，避免未確認便更改婚禮計劃。",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "已付酒席訂金就一定不能查詢擇日嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "仍可先說明既定限制並詢問服務範圍，但不能保證可在原日期內提供合適方案。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "是否一定要取消已訂場地？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不應在未確認前作此決定。先核對合約、費用及其他可調整環節，再由當事人商議。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "註冊與宴會是否必須同一天？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "應按實際安排及法定程序考慮；相關登記規定以入境事務處最新資訊為準。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "網站擇日服務等於婚禮統籌嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不能這樣假設。統籌、接送、供應商聯絡及書面流程表是否包括，須逐項確認。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以只傳另一半的出生資料嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先取得本人同意，並問清楚需要甚麼資料及用途，避免在公開群組提供私密資訊。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "選好日期能保證婚姻幸福嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不能。擇日是傳統文化選擇，關係經營、尊重及實際生活安排不能由日期取代。"
+          }
+        }
+      ]
+    }
+  ]
+}
