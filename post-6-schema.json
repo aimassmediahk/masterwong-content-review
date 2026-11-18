@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "農曆新年如何迎好運？家居迎春佈置與常見風水迷思",
+      "description": "準備迎接2027農曆新年，家居迎春佈置可以怎樣安排？由年花、揮春、全盒到拜年空間，整理簡單實用的準備方法，並說明節慶裝飾與個別住宅風水佈局的分別。",
+      "inLanguage": "zh-Hant",
+      "image": "https://aimassmediahk.github.io/masterwong-content-review/assets/post-6-featured.webp"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "2027年農曆新年是哪一天？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "香港天文台2027年日期對照表列明，農曆正月初一為2027年2月6日。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "迎春佈置一定要在立春當天完成嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "一般家居節慶佈置可按家庭習慣與時間安排；涉及個人流年分析的日期劃分，另向師傅確認。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "年花一定要放在某個招財方位嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "一般佈置先考慮空間、照顧及日常使用。個別住宅的風水方位需要按單位條件分析，不宜直接套用通則。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "去年保存的揮春或裝飾可以繼續用嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可按物品狀況與家庭習慣決定。狀況良好、適合今年使用的裝飾可以保留，不必為迎新而全部換新。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "小單位怎樣佈置才不顯得擁擠？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "選一至兩個重點位置，先預留走動與放置杯碟的空間，再配合比例較小的年花及裝飾。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "想了解家居新一年的風水安排，如何查詢？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可透過王天南網站聯絡頁或 WhatsApp 6418 8648，說明住宅情況及想了解的事項，再確認服務內容。"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "年底迎新年：家居整理與風水佈置，為新一年做好準備",
+      "description": "年底迎新年，家居可以從哪裏開始整理？由玄關、客廳、採光通風到書桌與收納，整理一份循序漸進的準備清單，配合王天南住宅風水服務介紹，為新一年安排舒適有序的生活空間。",
+      "inLanguage": "zh-Hant",
+      "image": "https://aimassmediahk.github.io/masterwong-content-review/assets/post-5-featured.webp"
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "年底整理一定要一次過完成嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不需要。可把玄關、客廳及文件衣物分開處理，按家人的時間逐步完成。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "迎新一定要買新的風水擺設嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不一定。先整理現有空間及物品，再考慮實際需要，毋須為迎新而添置一整套擺設。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "十二月整理與農曆新年前大掃除可以怎樣分工？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "十二月先做分類、回收及日常收納；農曆新年前再集中清潔、擺年花及安排拜年用品。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以照網上圖片搬動床位或神位嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "圖片只能作外觀參考。固定或重要位置的改動宜先了解單位條件，按需要向師傅查詢。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "整理後的物品可以送去哪裏回收？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可參考環保署「綠在區區」資料，先查核物品是否接收，以及附近設施的最新服務安排。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "想進一步了解住宅風水，如何聯絡？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可瀏覽王天南風水服務及聯絡頁，或 WhatsApp 6418 8648，先說明所需服務和單位情況。"
+          }
+        }
+      ]
+    }
+  ]
+}
